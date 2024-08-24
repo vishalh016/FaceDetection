@@ -18,13 +18,13 @@ Visualizes detected faces with a green rectangle around them.
 
 OpenCV library (installation: pip install opencv-python)
 
-#Usage:
+# Usage:
 
 Clone or download the repository.
 Ensure you have OpenCV installed.
 Run the script from your terminal using python face_detection.py.
 
-#Optional:
+# Optional:
 
 You can modify the script to:
 Save detected faces to images.
@@ -35,7 +35,7 @@ Contributing:
 We welcome pull requests to improve this script! Feel free to add features, fix bugs, or enhance the documentation.
 
 
-#Author:
+# Author:
 
 Bishal Halder
 
